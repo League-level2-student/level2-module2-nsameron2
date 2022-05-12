@@ -8,6 +8,16 @@ package _08_LeagueSnake;
  * 
  * 2. Add a constructor with parameters to initialize each variable.
  */
+
+
+
 public class Segment {
+    private int x;
+    private int y;
     
+    public Segment()
+    {
+        x = 0;
+        y = 0;
+    }
 }
