@@ -12,8 +12,8 @@ package _08_LeagueSnake;
 
 
 public class Segment {
-    private int x;
-    private int y;
+     int x;
+     int y;
     
     public Segment()
     {
